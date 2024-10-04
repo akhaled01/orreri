@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pi4FTRqJE0s=",
+  "success": true,
+  "projectFilePath": "/home/lo/orreri/orreri.csproj",
+  "expectedPackageFiles": [
+    "/home/lo/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/home/lo/orreri/bin/Debug/net8.0/orreri
+/home/lo/orreri/bin/Debug/net8.0/orreri.deps.json
+/home/lo/orreri/bin/Debug/net8.0/orreri.runtimeconfig.json
+/home/lo/orreri/bin/Debug/net8.0/orreri.dll
+/home/lo/orreri/bin/Debug/net8.0/orreri.pdb
+/home/lo/orreri/obj/Debug/net8.0/orreri.GeneratedMSBuildEditorConfig.editorconfig
+/home/lo/orreri/obj/Debug/net8.0/orreri.AssemblyInfoInputs.cache
+/home/lo/orreri/obj/Debug/net8.0/orreri.AssemblyInfo.cs
+/home/lo/orreri/obj/Debug/net8.0/orreri.csproj.CoreCompileInputs.cache
+/home/lo/orreri/obj/Debug/net8.0/orreri.dll
+/home/lo/orreri/obj/Debug/net8.0/refint/orreri.dll
+/home/lo/orreri/obj/Debug/net8.0/orreri.pdb
+/home/lo/orreri/obj/Debug/net8.0/orreri.genruntimeconfig.cache
+/home/lo/orreri/obj/Debug/net8.0/ref/orreri.dll
+/home/lo/orreri/bin/Debug/net8.0/CsvHelper.dll
+/home/lo/orreri/obj/Debug/net8.0/orreri.csproj.AssemblyReference.cache
+/home/lo/orreri/obj/Debug/net8.0/orreri.csproj.Up2Date
